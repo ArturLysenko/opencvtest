@@ -1,0 +1,11 @@
+﻿  Source.cpp
+f:\vsprojects\opencvtest\opencvtest\source.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\vsprojects\opencvtest\opencvtest\source.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\vsprojects\opencvtest\opencvtest\source.cpp(104): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\vsprojects\opencvtest\opencvtest\source.cpp(105): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\vsprojects\opencvtest\opencvtest\source.cpp(106): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\vsprojects\opencvtest\opencvtest\source.cpp(107): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\vsprojects\opencvtest\opencvtest\source.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\vsprojects\opencvtest\opencvtest\source.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\vsprojects\opencvtest\opencvtest\source.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OPENCVTest.vcxproj -> F:\VSProjects\OPENCVTest\x64\Debug\OPENCVTest.exe
